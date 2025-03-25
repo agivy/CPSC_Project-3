@@ -56,3 +56,10 @@ Once fine-tuned, perform defamation analysis over the transcription by running:
 ```bash
 python defamation-analysis.py
 ```
+
+After executing, this script will produce detailed defamation results in the file:
+
+```bash
+defamation_analysis_results.json
+```
+The sample analysis report id for roberta-large model. For running different models, train the LLMs using the defamation-model-training.py script and modify the model_name field in defamation-analysis.py

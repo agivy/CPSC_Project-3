@@ -32,6 +32,11 @@ First, create dataset using the script:
 python dataset.py
 ```
 
+This will save the dataset as 
+```bash
+defamation_dataset.json
+```
+
 Now, train an open-source LLM by running the following script:
 
 ```bash

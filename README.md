@@ -14,9 +14,15 @@ This will generate transcriptions in the folder:
 transcriptions/
 ```
 
-The default transcription is: transcriptions/transcription_large-v3.txt
+The default transcription is: 
+```bash
+transcriptions/transcription_large-v3.txt
+```
 
-The original transcript is: transcriptions/transcription_actual.txt
+The original transcript is: 
+```bash
+transcriptions/transcription_actual.txt
+```
 
 ### Part II: Fine-tuning & Defamation Analysis
 

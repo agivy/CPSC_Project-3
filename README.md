@@ -10,7 +10,8 @@ python part1_audio_transcript_openai.py
 ```
 
 This will generate transcriptions in the folder: 
-```bash transcriptions/
+```bash
+transcriptions/
 ```
 
 The default transcription is: transcriptions/transcription_large-v3.txt

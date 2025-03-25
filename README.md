@@ -7,6 +7,7 @@ To generate transcriptions, run the following script:
 
 ```bash
 python part1_audio_transcript_openai.py
+```
 
 This will generate transcriptions in the folder: transcriptions/
 

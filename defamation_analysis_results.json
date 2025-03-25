@@ -1,0 +1,212 @@
+[
+  {
+    "sentence": "Can you please tell the jury why you're here today?",
+    "is_defamatory": false,
+    "defamatory_bit": 0,
+    "confidence": 0.7321394681930542
+  },
+  {
+    "sentence": "Ms. Heard accused me of abuse.",
+    "is_defamatory": false,
+    "defamatory_bit": 0,
+    "confidence": 0.8252731561660767
+  },
+  {
+    "sentence": "My ex-husband is suing me.",
+    "is_defamatory": false,
+    "defamatory_bit": 0,
+    "confidence": 0.789936900138855
+  },
+  {
+    "sentence": "This is humiliating for any human being to go through.",
+    "is_defamatory": false,
+    "defamatory_bit": 0,
+    "confidence": 0.515128493309021
+  },
+  {
+    "sentence": "And all false.",
+    "is_defamatory": true,
+    "defamatory_bit": 1,
+    "confidence": 0.5502897500991821
+  },
+  {
+    "sentence": "Amber Heard forever changed Mr. Depp's life and reputation.",
+    "is_defamatory": false,
+    "defamatory_bit": 0,
+    "confidence": 0.5357542037963867
+  },
+  {
+    "sentence": "Behind the fame, you're gonna see who the real Johnny Depp is.",
+    "is_defamatory": false,
+    "defamatory_bit": 0,
+    "confidence": 0.7125471830368042
+  },
+  {
+    "sentence": "Depp was the one who wanted the cameras in the courtroom.",
+    "is_defamatory": true,
+    "defamatory_bit": 1,
+    "confidence": 0.5410987734794617
+  },
+  {
+    "sentence": "I would argue it's a PR campaign disguised as a defamation case.",
+    "is_defamatory": true,
+    "defamatory_bit": 1,
+    "confidence": 0.6320648789405823
+  },
+  {
+    "sentence": "There's the man himself.",
+    "is_defamatory": false,
+    "defamatory_bit": 0,
+    "confidence": 0.7378107905387878
+  },
+  {
+    "sentence": "It's been a social media circus of commentary from creators and influencers.",
+    "is_defamatory": false,
+    "defamatory_bit": 0,
+    "confidence": 0.7054731845855713
+  },
+  {
+    "sentence": "- Did you commit any kind of prank?",
+    "is_defamatory": true,
+    "defamatory_bit": 1,
+    "confidence": 0.558280348777771
+  },
+  {
+    "sentence": "- Absolutely not.",
+    "is_defamatory": false,
+    "defamatory_bit": 0,
+    "confidence": 0.7245886325836182
+  },
+  {
+    "sentence": "On my side of the bed was human fecal matter.",
+    "is_defamatory": false,
+    "defamatory_bit": 0,
+    "confidence": 0.576655387878418
+  },
+  {
+    "sentence": "This has moved away from a news story or a lawsuit... Amber's a liar!",
+    "is_defamatory": false,
+    "defamatory_bit": 0,
+    "confidence": 0.6975415349006653
+  },
+  {
+    "sentence": "...and it's transformed into a cultural moment.",
+    "is_defamatory": false,
+    "defamatory_bit": 0,
+    "confidence": 0.704940915107727
+  },
+  {
+    "sentence": "People are live-tweeting people are live-streaming.",
+    "is_defamatory": true,
+    "defamatory_bit": 1,
+    "confidence": 0.7041321396827698
+  },
+  {
+    "sentence": "Where does it end?",
+    "is_defamatory": false,
+    "defamatory_bit": 0,
+    "confidence": 0.6598140597343445
+  },
+  {
+    "sentence": "The engagement is phenomenal.",
+    "is_defamatory": false,
+    "defamatory_bit": 0,
+    "confidence": 0.7353270649909973
+  },
+  {
+    "sentence": "Videos can be very easily manipulated and republished.",
+    "is_defamatory": true,
+    "defamatory_bit": 1,
+    "confidence": 0.7315999269485474
+  },
+  {
+    "sentence": "We're being influenced by bots interacting with bots.",
+    "is_defamatory": true,
+    "defamatory_bit": 1,
+    "confidence": 0.5813426375389099
+  },
+  {
+    "sentence": "Johnny Depp is winning now in the court of public opinion.",
+    "is_defamatory": false,
+    "defamatory_bit": 0,
+    "confidence": 0.7701061367988586
+  },
+  {
+    "sentence": "I have never been so scared in my life.",
+    "is_defamatory": false,
+    "defamatory_bit": 0,
+    "confidence": 0.791364848613739
+  },
+  {
+    "sentence": "This trial is about so much more than Johnny Depp versus Amber Heard.",
+    "is_defamatory": false,
+    "defamatory_bit": 0,
+    "confidence": 0.6818236708641052
+  },
+  {
+    "sentence": "Why are we so fascinated with this case?",
+    "is_defamatory": false,
+    "defamatory_bit": 0,
+    "confidence": 0.7671169638633728
+  },
+  {
+    "sentence": "Because they're famous.",
+    "is_defamatory": false,
+    "defamatory_bit": 0,
+    "confidence": 0.7858123183250427
+  },
+  {
+    "sentence": "Because of the details.",
+    "is_defamatory": false,
+    "defamatory_bit": 0,
+    "confidence": 0.7694915533065796
+  },
+  {
+    "sentence": "What didn't the jury see?",
+    "is_defamatory": false,
+    "defamatory_bit": 0,
+    "confidence": 0.7390487194061279
+  },
+  {
+    "sentence": "- He just kicked me.",
+    "is_defamatory": false,
+    "defamatory_bit": 0,
+    "confidence": 0.5169183015823364
+  },
+  {
+    "sentence": "- It didn't happen.",
+    "is_defamatory": false,
+    "defamatory_bit": 0,
+    "confidence": 0.6035757660865784
+  },
+  {
+    "sentence": "I don't know who to believe.",
+    "is_defamatory": false,
+    "defamatory_bit": 0,
+    "confidence": 0.7359946370124817
+  },
+  {
+    "sentence": "I ******* was hitting you.",
+    "is_defamatory": false,
+    "defamatory_bit": 0,
+    "confidence": 0.7744603753089905
+  },
+  {
+    "sentence": "Ms. Heard, Mr. Depp is your victim, isn't he?",
+    "is_defamatory": false,
+    "defamatory_bit": 0,
+    "confidence": 0.7569980025291443
+  },
+  {
+    "sentence": "This is not so much about the legal merits, but rather what the public perception is.",
+    "is_defamatory": true,
+    "defamatory_bit": 1,
+    "confidence": 0.6864603757858276
+  },
+  {
+    "sentence": "And that leaves us to the real question, which is... what is the actual truth?",
+    "is_defamatory": false,
+    "defamatory_bit": 0,
+    "confidence": 0.7294731140136719
+  }
+]

@@ -176,7 +176,7 @@ def print_summary(summary):
 
 def main():
     # Define path to the transcript and model
-    transcript_file = "transcriptions/transcription_actual.txt"  # Adjust path if needed
+    transcript_file = "transcriptions/transcription_large-v3.txt"  # Adjust path if needed
     model_name = "google-bert/bert-large-cased"
     #other models:
     # google-bert/bert-base-cased

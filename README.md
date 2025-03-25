@@ -40,8 +40,6 @@ The fine-tuned models will be saved in their respective folders named:
 defamation-detector-model_{model_name}
 ```
 
-### Part III: Defamation Analysis
-
 Once fine-tuned, perform defamation analysis over the transcription by running:
 
 ```bash

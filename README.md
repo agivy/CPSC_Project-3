@@ -26,7 +26,13 @@ transcriptions/transcription_actual.txt
 
 ### Part II: Fine-tuning & Defamation Analysis
 
-First, train an open-source LLM by running the following script:
+First, create dataset using the script:
+
+```bash
+python dataset.py
+```
+
+Now, train an open-source LLM by running the following script:
 
 ```bash
 python defamation-model-training.py
